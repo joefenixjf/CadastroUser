@@ -24,3 +24,9 @@ aside.logo img {
     transform: rotate(360deg);
   }
 }
+
+@media (max-width: 576px) {
+  aside.logo img {
+    width: 250px;
+  }
+}
